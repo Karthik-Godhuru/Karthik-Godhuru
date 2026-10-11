@@ -1,88 +1,122 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:650014,100:FF003C&height=210&section=header&text=KARTHIK%20GODHURU&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20DEVELOPER%20%7C%20BUILDER%20%7C%20LEARNER&descAlignY=58&descSize=16" width="100%" alt="Karthik Godhuru developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Karthik&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=60" width="100%" alt="Hi, I'm Karthik"/>
 
-### `Building the future, one commit at a time.`
+### AI/ML Developer | Software Engineering Student
 
-[![GitHub](https://img.shields.io/badge/GitHub-Karthik--Godhuru-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthik-Godhuru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FF003C)](https://linkedin.com/in/karthik-godhuru)
+*Building intelligent solutions. Learning every day.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181825?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthik-Godhuru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181825?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/karthik-godhuru)
+[![Email](https://img.shields.io/badge/Email-181825?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:karthikdevanga001@gmail.com)
 
 </div>
 
 ---
 
-## `> WHOAMI`
+## 🚀 About Me
 
-```python
-class KarthikGodhuru:
-    role = "Aspiring AI/ML Engineer"
-    education = "B.Tech CSE - AI & ML"
-    focus = ["Artificial Intelligence", "Machine Learning",
-             "Software Engineering", "Privacy AI"]
-    currently_building = ["Privacy AI Agent", "StudyFlow"]
-    languages = ["Python", "Java", "TypeScript"]
-    mindset = "Build. Share. Learn. Repeat."
-```
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Godhuru&layout=compact&theme=github_dark&hide_border=true" alt="Language statistics"/>
 
-- Developing practical projects that solve real-world problems.
-- Exploring privacy-preserving AI and browser automation.
-- Learning software engineering, algorithms, and AI/ML.
-- Always improving through building and experimentation.
+- 🎓 CSE student specializing in AI & ML.
+- 🤖 Interested in AI agents and machine learning.
+- 🔐 Exploring privacy-preserving browser automation.
+- 💻 Learning Python, Java, React and TypeScript.
+- 🛠️ Building projects and strengthening software engineering skills.
+
+<br clear="right"/>
 
 ---
 
-## `> TECH STACK`
+## 🤝 Connect
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF003C)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+[![GitHub](https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthik-Godhuru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/karthik-godhuru)
+[![Gmail](https://img.shields.io/badge/Gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karthikdevanga001@gmail.com)
 
 </div>
 
 ---
 
-## `> FEATURED PROJECTS`
-
-| Project | Description |
-|---|---|
-| [Privacy AI Agent](https://github.com/Karthik-Godhuru) | Exploring privacy-preserving AI and browser automation. |
-| [StudyFlow](https://github.com/Karthik-Godhuru) | Student study planner project. |
-| [Python Basics Practices](https://github.com/Karthik-Godhuru/python-basics-practices) | Python practice programs and learning exercises. |
-| [ConnectOne](https://github.com/Karthik-Godhuru/connectone) | Explore my ConnectOne repository. |
-
----
-
-## `> GITHUB ANALYTICS`
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karthik-Godhuru&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Godhuru&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=FFFFFF" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Karthik-Godhuru&theme=dark&hide_border=true&background=0D1117&ring=FF003C&fire=FF003C&currStreakLabel=FF003C" alt="GitHub contribution streak"/>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,html,css,supabase,git,github,vscode&theme=dark" alt="Technology icons"/>
 
 </div>
 
 ---
 
-## `> CONNECT WITH ME`
+## 📂 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Privacy AI Agent
+
+Exploring a browser-based AI assistant focused on protecting sensitive page data.
+
+**Focus:** AI agents · Browser automation · Privacy
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 StudyFlow
+
+A student study planner for organizing tasks, subjects, and study progress.
+
+**Focus:** React · TypeScript · Supabase
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Basics
+
+Practice programs and exercises as I develop my Python fundamentals.
+
+[Explore repository →](https://github.com/Karthik-Godhuru/python-basics-practices)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 ConnectOne
+
+Explore another project from my developer portfolio.
+
+[Explore repository →](https://github.com/Karthik-Godhuru/connectone)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-111111?style=for-the-badge&logo=linkedin&logoColor=FF003C)](https://linkedin.com/in/karthik-godhuru)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Code-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Karthik-Godhuru)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthik-Godhuru&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
 
-### `BUILD • SHARE • LEARN • REPEAT`
+<img width="49%" src="https://streak-stats.demolab.com?user=Karthik-Godhuru&theme=github-dark-blue&hide_border=true" alt="Contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:650014,100:050505&height=110&section=footer" width="100%" alt="Red and black footer banner"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-Godhuru&theme=github-compact&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### BUILD • LEARN • CREATE • REPEAT
+
+<sub>Thanks for visiting my developer profile.</sub>
+
+</div>
+
